@@ -100,6 +100,11 @@ Typically, at low angles of attack and moderate Reynolds numbers, pressure diffe
 
 
 ## Experimental Setup
+### Schematic diagram of Airfoil
+
+| ![](Schematic_1.png) | ![](Schematic_2.png) 
+|:--------------------:|:--------------------:|
+| Top view            | Side view           |
 
 ### Airfoil & Mount
 - **Airfoil:** 3D-printed NACA 4412 with 20 pressure taps (10 upper, 10 lower).
@@ -122,7 +127,7 @@ Typically, at low angles of attack and moderate Reynolds numbers, pressure diffe
 - **Type:** Closed-circuit wind tunnel with adjustable fan speed
 - **Velocity Measurement:** Pitot-static tube + manometer
 
-### Final Setup & Demo
+### Final Setup & Demo Video
 
 **Demo Video**  
 [Watch the video](Project_video.mp4)
