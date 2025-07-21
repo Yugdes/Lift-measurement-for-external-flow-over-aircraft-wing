@@ -2,7 +2,7 @@
 
 **Course:** ME 207: Fluid Dynamics  
 **Institute:** IIT Gandhinagar  
-**Team:** Group 7  
+
 - Anuj Manoj Joshi (23110033)  
 - Jatin Agarwal (23110147)  
 - Tanushka Anand Sonde (23110332)  
